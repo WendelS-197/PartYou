@@ -1,0 +1,32 @@
+
+.containerr{
+
+    padding: 0px 50px 50px 50px;
+    background-color: rgba(255,255,255,1);
+
+}
+.form-groupo{
+    margin:  20px;
+    display: block;
+}
+
+.comprido{
+    height: 27px;
+
+    padding: 0px;
+}
+
+
+#sel-1{
+
+margin: 20px 20px 20px 60px;
+height: 90px;
+width: 780px;
+ 
+}
+
+
+#trocarsenha div{
+
+text-align: center;
+}

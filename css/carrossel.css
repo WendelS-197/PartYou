@@ -1,0 +1,21 @@
+body { padding-top: 0px; }
+#myCarousel .nav a small {
+    display:block;
+}
+#myCarousel .nav {
+    background:#eee;
+ 	
+}
+#myCarousel .nav a {
+    border-radius:0px;
+}
+
+.carousel-caption{
+
+	background-size: cover;
+	padding: 2px 70px 2px 70px;
+	background: black;
+    background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(0,0,0,1));
+
+}
+
